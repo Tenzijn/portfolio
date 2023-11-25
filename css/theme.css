@@ -1,0 +1,27 @@
+/* Dark Theme */
+.dark {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+h1.dark {
+  color: #ffffff;
+}
+
+a.dark {
+  color: #ffffff;
+}
+
+/* Light Theme */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+h1.light {
+  color: #000000;
+}
+
+a.light {
+  color: #000000;
+}
