@@ -1,3 +1,6 @@
+import codeAcademy from '/code-academy-clone.png';
+import covidTibetDev from '/covid-tibet-dev.png';
+import tibetCommunity from '/tibetcommunity.png';
 /***********************************************
  * Data for the My Journey section
  * Add your own data to End of the array
@@ -182,7 +185,7 @@ export let projects = [
     id: 1,
     title: 'codecademy',
     subtitle: 'codecademy.com',
-    image: '../assets/img/code-academy-clone.png',
+    image: codeAcademy,
     programs: ['html5', 'css3-alt', 'js-square'],
     link: 'https://codepen.io/Tenzijn/details/PoXJdBe',
     github: '#',
@@ -191,7 +194,7 @@ export let projects = [
     id: 2,
     title: 'Covid.Tibet.Dev',
     subtitle: 'Covid data in Tibetan',
-    image: '../assets/img/covid-tibet-dev.png',
+    image: covidTibetDev,
     programs: ['react', 'js-square', 'html5', 'css3-alt'],
     link: 'https://covid.tibet.dev',
     github: '#',
@@ -200,7 +203,7 @@ export let projects = [
     id: 3,
     title: 'Tibetan community Netherlands',
     subtitle: 'tibetcommunity.nl',
-    image: '../assets/img/tibetcommunity.png',
+    image: tibetCommunity,
     programs: ['wordpress', 'css3-alt'],
     link: 'https://tibetcommunity.nl',
     github: '#',

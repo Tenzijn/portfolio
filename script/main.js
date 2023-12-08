@@ -1,9 +1,6 @@
 import '../style/style.css';
 import '../style/theme.css';
-import tenzinAvatar from '../assets/img/me.webp';
-import codeAcademy from '../assets/img/code-academy-clone.png';
-import covidTibet from '../assets/img/covid-tibet-dev.png';
-import tibetcommunity from '../assets/img/tibetcommunity.png';
+import tenzinAvatar from '/me.webp';
 
 // components
 import { myJourney, projects } from './components/data.js';
