@@ -29,3 +29,8 @@ firebase-debug.log
 .firebase/
 .firebaserc
 ```
+
+# Firebase files
+/firebase.json
+/.firebaserc
+/.firebase/
